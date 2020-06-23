@@ -1,3 +1,7 @@
 # hello-world
 First funny repository
-Ala la la la long
+
+We are here to learn how to code. OMG
+We´re so upset
+hope I´ll enjoy this
+
